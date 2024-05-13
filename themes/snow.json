@@ -356,7 +356,7 @@
           }
         },
         "terminal.background": "#101012ff",
-        "terminal.foreground": "#FFFFFF",
+        "terminal.foreground": "#F80",
         "terminal.bright_foreground": "#FFFFFF",
         "terminal.dim_foreground": "#B2B2B2FF",
         "terminal.ansi.black": "#21222cff",
